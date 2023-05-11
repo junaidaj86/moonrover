@@ -133,4 +133,9 @@ public class MoonRoverOperations implements Operations {
         return response;
     }
 
+
+    public void resetCoordinates(){
+        coordinates = null;   
+    }
+
 }

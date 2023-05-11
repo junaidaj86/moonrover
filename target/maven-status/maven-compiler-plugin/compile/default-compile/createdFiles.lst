@@ -1,9 +1,11 @@
 com/ice/rover/rover/model/Direction.class
 com/ice/rover/rover/util/MoonRoverHelper.class
-com/ice/rover/rover/controller/MoonRoverController.class
-com/ice/rover/rover/service/MoonRoverOperations.class
-com/ice/rover/rover/util/Response.class
+com/ice/rover/rover/util/DirectionDeserializer.class
 com/ice/rover/rover/model/Coordinates.class
 com/ice/rover/rover/util/Constants.class
 com/ice/rover/rover/service/Operations.class
 com/ice/rover/rover/RoverApplication.class
+com/ice/rover/rover/controller/MoonRoverController.class
+com/ice/rover/rover/service/MoonRoverOperations.class
+com/ice/rover/rover/util/Response.class
+com/ice/rover/rover/service/MoonRoverOperations$1.class
