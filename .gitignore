@@ -1,14 +1,4 @@
-.metadata
-bin/
-tmp/
-*.tmp
-*.bak
-*.swp
-*~.nib
-local.properties
+.project  
+.classpath
 .settings/
-.loadpath
-.recommenders
-.target
-.jar
-.txt
+target/
